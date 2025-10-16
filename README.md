@@ -10,7 +10,7 @@ Capture tasks with title, description, due date, priority and status. Great star
 - .gitignore and an MIT license
 
 ## Prerequisites
-- JDK 17 or newer
+- JDK 21
 - Git
 - Maven (or use the included Maven wrapper)
 - Optional: GitHub CLI (`gh`) for repository creation

@@ -4,7 +4,7 @@
 Build a simple to‑do app with create/read/update/delete tasks, status, due date, and basic persistence.
 
 ## Prerequisites
-- JDK 21 installed
+- JDK 21
 - Git
 - Maven (or use the included Maven wrapper)
 - Optional: IDE (VS Code / IntelliJ)
